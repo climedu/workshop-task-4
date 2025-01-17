@@ -31,3 +31,15 @@ working with loops
 
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/27cdae72-6046-42b0-b811-bb64347e9da0" />
 
+##### moved to vscode 
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/e5e74cd8-2920-4419-8738-2493d5dbe6e6" /> <br>
+
+
+It was working as different as I have intended so I have used the chatgpt to figure out the problem of my codes. <br>
+
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/67e03cde-e03c-4fe9-ac8a-6f73b80b459c" />
+
+
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/099e96ab-fbef-4aa9-bcd6-6468d3df982b" />
