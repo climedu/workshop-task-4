@@ -3,11 +3,7 @@
 
 [p5.js editor] 
 
-https://editor.p5js.org/Josephine003/full/jIL9191TU
-
 https://editor.p5js.org/Josephine003/full/QtJf-J3Vd 
-
-http://127.0.0.1:5500/
 
 ### Notes
 coding principles : variables, conditionals, loops, functions, and objects
