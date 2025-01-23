@@ -4,20 +4,13 @@
 
 # Workshop 1 : Coding Fundamentals
 
-[p5.js editor] 
-
-https://editor.p5js.org/Josephine003/full/QtJf-J3Vd 
-
-[using MouseMoved]
-
-https://editor.p5js.org/Josephine003/full/eJe0m2mwP
 
 ## Task
 [] Sketch using 2D primitive shapes, loops, and random numbers <br>
 [] write your own functions and make calls to these functions in your code <br>
 [] experiment with at least one new item from the https://p5js.org/reference/
 
-## Notes
+## Notes from the workshop video
 coding principles : variables, conditionals, loops, functions, and objects
 
 <three key elements in loops>
@@ -32,7 +25,7 @@ calling : createCanvas / background / fill / noStroke <br>
 Q. why do we need functions? <br>
 A. modularity / reusability
 
-## Process and Experimentation
+## Progress (Experimentation and problem solving)
 
 working with loops
 
@@ -58,17 +51,40 @@ chatgpt : To make circles continuously follow the mouse movement, the background
 <br>
 
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/099e96ab-fbef-4aa9-bcd6-6468d3df982b" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/099e96ab-fbef-4aa9-bcd6-6468d3df982b" /><br>
+<Br>
 
-<img width="792" alt="image" src="https://github.com/user-attachments/assets/3a7cd76a-4233-4601-b76d-9a742a74670e" />
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/3a7cd76a-4233-4601-b76d-9a742a74670e" /><br>
+<br>
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/e700767b-2ce7-4112-bea6-1f0f69341edc" /><Br>
+<Br>
 
 
-## Problem Solving & code
+[p5.js editor] 
+
+https://editor.p5js.org/Josephine003/full/QtJf-J3Vd 
+
+[using MouseMoved]
+
+https://editor.p5js.org/Josephine003/full/eJe0m2mwP
+
+[twinkle]
+
+https://editor.p5js.org/Josephine003/full/IaR9w6_FM
+
+
+## codes
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/3a0e1d7b-9b7d-4809-a33c-53f3bdf395cc" /> <br>
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/80dde402-83a2-4070-a9e2-dd5f51283e63" />
 
 <img width="433" alt="image" src="https://github.com/user-attachments/assets/96027c29-3096-4f36-9836-17f527d4d805" />
 
-## Reference
 
 ## Future Development
+
+## Reference / other sources that helped me
+<br>
+https://www.youtube.com/watch?v=cnRD9o6odjk<br>
+<br>
+https://www.youtube.com/watch?v=k8gIvG_OmvE
+
